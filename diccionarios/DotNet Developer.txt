@@ -1,0 +1,186 @@
+Experience,
+Months,
+Description,
+Company,
+Details,
+Skills,
+Project,
+Consultant,
+Aegis,
+Wipro,
+B C,
+Madhya Pradesh,
+Solutions Pvt,
+Operating System,
+Sentiment Analysis,
+Year,
+Intelligence Platform,
+Exprience,
+January,
+Industry,
+le,
+b,
+e,
+august,
+maharashtra,
+month,
+window,
+xp,
+amravati,
+january,
+b,
+month ,
+education,
+detail,
+Pandas,
+School,
+Deep Learning,
+MateLatit,
+SAP,
+HANA,
+Logistic Regression,
+Validate Data,
+Visualization,
+Exprience,
+advance analytics,
+topic modelling,
+Less,
+Exprience,
+Scientist Data,
+Python Machine,
+Programming,
+Language,
+Computer Science,
+Knowledge,
+Learning,
+SAP,
+KNN Decision,
+A Design,
+fetching,
+Tensor flow.,
+trained learning Algorithmsproject involved,
+data flow,
+deep machine,
+aubonat ton,
+Software,
+Learning,
+Deep,
+Data Modelling Skill Details,
+Education,
+Details,
+Expertence,
+chat bot,
+Data,
+user queries,
+unstructured data,
+a SAP,
+carried,
+data models,
+Neura,
+Develop,
+Key Responsibilities,
+Data,
+Machine,
+Environment,
+Elastic, 
+search,
+Management,
+System,
+MVC,
+year,
+Months,
+months,
+monthsCompany,
+side,
+Validation,
+type,
+months,
+application,
+will,
+fields,
+technology,
+Role,
+Developer,
+Presentation,
+Responsibilities,
+Worked,
+activity,
+student,
+updating,
+includes,
+record,
+Project,
+using,
+HTML,
+CSS,
+displayed,
+discusing,
+university,
+documentation,
+Hospital,
+Ltd,
+description,
+Applying,
+client,
+English,
+Computer,
+update,
+Science,
+worked,
+sucessfull,
+Technologies,
+disable,
+greyed,
+Involved,
+Everywhere,
+navigated,
+admin,
+module,
+pressure
+size
+disabled
+project,
+activities,
+Pune,
+maharashtra,
+problem
+solving
+known
+problem
+deliver
+pressure
+proficient
+Name,
+ability
+strong
+experienced
+Development,
+esful,
+ability
+su,
+message,
+le,
+month
+problem
+solving
+known
+strong
+exprience
+layer,
+pune
+maharashtra
+company
+detail
+role
+responsibility
+skill
+education
+management
+january
+hospital
+business
+school
+sr
+presentation
+education
+detail

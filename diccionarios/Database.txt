@@ -1,0 +1,135 @@
+experience,
+months,
+description,
+company,
+details,
+skills,
+project,
+consultant,
+aegis,
+wipro,
+b c,
+madhya,
+pradesh,
+solutions,
+pvt,
+operating,
+system,
+sentiment,
+analysis,
+year,
+intelligence,
+platform,
+working,
+exprience,
+january,
+industry,
+pandas,
+school,
+deep learning,
+matelatit,
+sap,
+hana,
+logistic,
+regression,
+validate data,
+visualization,
+advance,
+analytics,
+topic,
+modelling,
+less,
+scientist,
+data,
+python,
+machine,
+programming,
+language,
+knowledge,
+learning,
+knn decision,
+a design,
+fetching,
+tensor flow,
+trained,
+algorithmsproject,
+involved,
+data flow,
+deep machine,
+aubonat ton,
+software,
+deep,
+modelling,
+skill,
+education,
+expertence,
+chat bot,
+user queries,
+unstructured data,
+carried,
+data models,
+neura,
+develop,
+key,
+responsibilities,
+environment,
+elastic search,
+alert,
+log,
+technical,
+slow,
+india,
+another,
+worked,
+tieto,
+monthscompany,
+team,
+member,
+itd,
+always,
+using,
+mean,
+successfully,
+technologies,
+description,
+worked,
+detail,
+role,
+pressure
+education detail,
+activity,
+responsibility,
+strong
+proficient
+issue,
+name,
+month,
+ltd
+technology
+problem
+solving
+known
+problem
+deliver
+best
+practice
+pressure
+job
+application
+problem
+solving
+known
+problem
+deliver
+pressure
+different
+maharashtra
+mumbai
+linkedin
+science
+performance
+high availability
+m
+ability
+university
+support
